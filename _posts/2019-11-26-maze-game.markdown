@@ -1,0 +1,32 @@
+---
+layout: post
+title: Maze Game
+date: 2019-11-26 13:32:20 +0300
+description: Maze Madness by Darren Pearson # Add post description (optional)
+img: maze.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Maze, Javascript, Tumult Hype, Games]
+---
+
+----
+## Game
+Click [HERE](https://spcgames.github.io/maze/) to play.
+
+----
+## Project Description
+The fifth project for DGIM 2530 - Game Design 1 creates a Maze Game using Tumult Hype. 
+
+----
+## Customization
+The game displayed here is the final result created as an inclass demonstration led by the instructor. 
+
+----
+## Hosting and Usability Testing
+A GitHub account was created and the game was hosted at <https://spcgames.github.io/maze/>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file and the usability test results, along with a link to the actual game for grading.
+
+----
+## Misc Notes
+Nothing
+
+----
+[RETURN TO HOME](https://spcgames.github.io/)
