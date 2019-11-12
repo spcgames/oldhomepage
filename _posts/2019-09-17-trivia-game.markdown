@@ -10,7 +10,7 @@ tags: [Trivia, Javascript, Tumult Hype, Games]
 
 ----
 ## Game
-Click [HERE](https://spcgames.github.io/trivia/) to play the Trivia Game
+Click <a href="https://spcgames.github.io/trivia/" target="_blank">HERE</a> to play.
 
 ----
 ## Project Description
